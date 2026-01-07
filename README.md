@@ -5,11 +5,11 @@
        alt="FluX API Banner"
        style="width:100%; max-width:1200px;">
 
+
 FluX API is an open-source project designed to serve as a **flexible starting foundation for building APIs from scratch**, encouraging creativity, learning, and community collaboration.
 
 This project is **not a finished API**. Instead, it exists to help developers create their own APIs freely, defining their own architecture, business rules, technologies, and identity.
 
----
 
 ## 🚀 Purpose
 
@@ -19,7 +19,6 @@ This project is **not a finished API**. Instead, it exists to help developers cr
 - Promote open-source collaboration  
 - Grow organically with the community  
 
----
 
 ## 🌍 Language-Agnostic by Design
 
@@ -43,7 +42,6 @@ Below are some examples — not limitations.
 There are **no restrictions** on technology choices.  
 Each contribution represents a unique approach to API design.
 
----
 
 ## 🤝 Contributing
 
@@ -59,7 +57,6 @@ If you choose to contribute, feel free to organize your API in a way that makes 
 
 The goal is to **share knowledge, patterns, and creativity**, not enforce a single standard.
 
----
 
 ## 📂 Project Philosophy
 
@@ -69,15 +66,15 @@ The goal is to **share knowledge, patterns, and creativity**, not enforce a sing
 
 FluX API exists to evolve alongside its contributors.
 
----
-
 ## 📜 License
 
 This project is open source and available under the chosen license of the repository.
 
----
 
 ## ⭐ Final Note
 
-If you are learning, experimenting, or building something new —  
+If you are learning, experimenting, or building something new —
+
+Documentation Update
+
 **FluX API is your space to create.**
