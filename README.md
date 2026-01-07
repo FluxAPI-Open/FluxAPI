@@ -1,9 +1,13 @@
 # FluxAPI
 
 <p align="center">
+<<<<<<< HEAD
   <img src="https://github.com/FluxAPI-Open/FluxAPI/blob/main/FluxAPI/banner.png?raw=true"
        alt="FluX API Banner"
        style="width:100%; max-width:1200px;">
+=======
+  <img src="banner.png" alt="FluX API Banner" style="width:100%; max-width:1200px;">
+>>>>>>> ccc8a1f (docs: update README header)
 </p>
 
 
@@ -70,6 +74,10 @@ The goal is to **share knowledge, patterns, and creativity**, not enforce a sing
 - Collaboration over ownership  
 
 FluX API exists to evolve alongside its contributors.
+<<<<<<< HEAD
+=======
+<!-- FluxAPI Documentation -->
+>>>>>>> ccc8a1f (docs: update README header)
 
 ---
 
