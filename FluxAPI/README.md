@@ -1,8 +1,11 @@
 # FluxAPI
 
 <p align="center">
-  <img src="banner.png" alt="FluX API Banner" style="width:100%; max-width:1200px;">
+  <img src="https://github.com/FluxAPI-Open/FluxAPI/blob/main/FluxAPI/banner.png?raw=true"
+       alt="FluX API Banner"
+       style="width:100%; max-width:1200px;">
 </p>
+
 
 
 FluX API is an open-source project designed to serve as a **flexible starting foundation for building APIs from scratch**, encouraging creativity, learning, and community collaboration.
@@ -81,4 +84,5 @@ This project is open source and available under the chosen license of the reposi
 
 If you are learning, experimenting, or building something new —  
 **FluX API is your space to create.**
+
 
