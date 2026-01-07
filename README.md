@@ -1,7 +1,6 @@
 # FluxAPI
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://github.com/FluxAPI-Open/FluxAPI/blob/main/FluxAPI/banner.png?raw=true"
        alt="FluX API Banner"
        style="width:100%; max-width:1200px;">
